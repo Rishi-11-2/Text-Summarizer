@@ -4,11 +4,11 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 __version__ = "0.0.0"
-REPO_NAME = "Text-Summarizer"
+REPO_NAME = "textSummarizer"
 
 AUTHOR_USER_NAME = "Rishi-11-2"
 
-SRC_REPO = "Text-Summarizer"
+SRC_REPO = "textSummarizer"
 
 
 setuptools.setup(
